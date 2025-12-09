@@ -2,7 +2,7 @@
 // Initialize variables
 let currentStep = 1;
 const totalSteps = 6;
-let userName = "Shreya Didi";
+let userName = "Shreya Cutiee🥳🎉";
 
 
 // Initialize particles.js
@@ -347,12 +347,12 @@ function createPetals() {
 // Function to type out message
 function typeMessage() {
     const messages = [
-        `Dear Didi ${userName},`,
+        `Dear Pookie Ji ${userName},`,
         "On your special day, I want you to know...",
         "You are the most amazing person I've ever met.",
         "May this year bring you all the joy you deserve.",
         "You deserve the world and more.",
-        "Happy Birthday,To didi! ❤"
+        "Happy Birthday to the most strongest and amazing girl! ❤"
     ];
     
     const typingText = document.getElementById('typingText');
@@ -506,4 +506,5 @@ function shareOnSocial(platform) {
         repeat: 1
     });
 }
+
 
